@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: #645cff;
+    color: #ffffff;
+    
+}
+.navbar > h1{
+    padding: 0px;
+}
+
+.quant_sec{
+    font-size: 30px;
+    color: #00ffff;
+}
+
+.supp{
+    color: #ffffff;
+    font-size: 20px;
+}
